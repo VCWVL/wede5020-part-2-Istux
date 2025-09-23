@@ -161,6 +161,13 @@ Optimized images using srcset and responsive techniques
 Conducted device testing and debugging
 
 References
+References:
+
+W3C (2023). HTML & CSS Standards. Available at: https://www.w3.org/ (Accessed: 27 August 2025).
+
+MDN Web Docs (2024). HTML: HyperText Markup Language. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML (Accessed: 27 August 2025).
+
+MDN Web Docs (2024). CSS: Cascading Style Sheets. Mozilla. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS (Accessed: 27 August 2025).
 
 Mozilla Developer Network (MDN). 2023. HTML: HyperText Markup Language. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
  [Accessed 20 September 2025].
