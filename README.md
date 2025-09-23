@@ -19,15 +19,16 @@ Establish Brand Presence: Present company values, mission, and eco-friendly prac
 Enable Scalability: Build a structure that can easily incorporate future enhancements such as product filtering, newsletter signups, and full e-commerce integration.
 
 Key Features and Functionality
-Home Page (index.html)
-Welcome banner with a background image
-Navigation bar linking to all pages
-Brief introduction about the business
+
+Home Page (index.html).
+Welcome banner with a background image.
+Navigation bar linking to all pages.
+Brief introduction about the business.
 
 Products Page (products.html)
-Grid layout showcasing fruits and vegetables
-Product images with short descriptions
-Responsive design for mobile and desktop
+Grid layout showcasing fruits and vegetables.
+Product images with short descriptions.
+Responsive design for mobile and desktop.
 
 About Us Page (about.html)
 Mission and vision statements
@@ -35,48 +36,48 @@ Eco-friendly company values
 Team introduction with staff highlights
 
 Enquiry Page (enquiry.html)
-Contact form with fields: Name, Email, Subject, and Message
-Submit button (future backend integration required)
+Contact form with fields: Name, Email, Subject, and Message.
+Submit button (future backend integration required).
 
 Contact Page (contact.html)
-Contact details (email, phone, address)
-Embedded Google Map 
-Link to the enquiry form
+Contact details (email, phone, address).
+Embedded Google Map.
+Link to the enquiry form.
 
 Timeline and Milestones
 
 Phase 1: Research and Planning (Week 1)
-Identify goals, target audience, and competitors
-Gather content and images
-Define sitemap
-Milestone: Approved project plan
+Identify goals, target audience, and competitors.
+Gather content and images.
+Define sitemap.
+Milestone: Approved project plan.
 
 Phase 2: Design and Wireframes (Week 2)
-Create low-fidelity wireframes for all five pages
-Finalize branding (colors, fonts, logos)
-Milestone: Mockups approved
+Create low-fidelity wireframes for all five pages.
+Finalize branding (colors, fonts, logos).
+Milestone: Mockups approved.
 
 Phase 3: Development (Weeks 3–4)
-Build website structure using HTML5
-Apply CSS for layout, typography, and color scheme
-Add images, banners, and responsive product grids
-Milestone: Functional static site created
+Build website structure using HTML5.
+Apply CSS for layout, typography, and color scheme.
+Add images, banners, and responsive product grids.
+Milestone: Functional static site created.
 
 Phase 4: Testing and Debugging (Week 5)
-Test across devices and browsers
-Fix layout, accessibility, and responsiveness issues
-Milestone: Fully functional website without errors
+Test across devices and browsers.
+Fix layout, accessibility, and responsiveness issues.
+Milestone: Fully functional website without errors.
 
 Phase 5: Deployment (Week 6)
-Deploy to GitHub Pages, Netlify, or cPanel hosting
-Configure domain and hosting
-Milestone: Live website accessible publicly
+Deploy to GitHub Pages, Netlify, or cPanel hosting.
+Configure domain and hosting.
+Milestone: Live website accessible publicly.
 
 Phase 6: Maintenance and Updates (Ongoing)
-Regularly update product catalog
-Add seasonal promotions
-Monitor and maintain website stability
-Milestone: Up-to-date stable site
+Regularly update product catalog.
+Add seasonal promotions.
+Monitor and maintain website stability.
+Milestone: Up-to-date stable site.
 
 Sitemap
 <img width="1639" height="1282" alt="image" src="https://github.com/user-attachments/assets/f576766a-7bdd-4808-a245-b0899cb38bc3" />
@@ -146,21 +147,20 @@ Sitemap
 
 Changelog
 Version 1.0 (Part 1)
-Project plan, goals, and structure created
-Folder structure finalized
-Color scheme and typography chosen
-Timeline and milestones drafted
+Project plan, goals, and structure created.
+Folder structure finalized.
+Color scheme and typography chosen.
+Timeline and milestones drafted.
 
 Version 1.1 (Part 2)
-Implemented external CSS stylesheet (style.css)
-Established base styling across all pages
-Applied typography, grid layouts, and Flexbox
-Added visual styles (colors, borders, hover effects)
-Introduced responsive breakpoints for desktop, tablet, and mobile
-Optimized images using srcset and responsive techniques
-Conducted device testing and debugging
+Implemented external CSS stylesheet (style.css).
+Established base styling across all pages.
+Applied typography, grid layouts, and Flexbox.
+Added visual styles (colors, borders, hover effects).
+Introduced responsive breakpoints for desktop, tablet, and mobile.
+Optimized images using srcset and responsive techniques.
+Conducted device testing and debugging.
 
-References
 References:
 
 W3C (2023). HTML & CSS Standards. Available at: https://www.w3.org/ (Accessed: 27 August 2025).
