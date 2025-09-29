@@ -224,7 +224,6 @@ Part 1 (HTML only): Website had raw structure but no style plain text, images, a
 Part 2 (CSS added): Now the site looks professional, readable, and branded, with proper colours, alignment, responsiveness, and interactivity.
 
 Timeline(Part 2 Only)
-
 Week 1 (2 days): Set up CSS reset, define colour scheme, and apply fonts across the website.
 Week 2 (3 days): Style navigation menu, hero image, and homepage sections for consistency.
 Week 3 (3 days): Style About, Products, Team, and Contact pages, including tables, forms, and blockquotes.
@@ -255,12 +254,11 @@ Visuals from Part 2. (Visuals of the code,website,media queries, testing in diff
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 154915" src="https://github.com/user-attachments/assets/57b6685b-122d-49ba-816a-0ac0fe9f93bf" />
 
 
-
 Testing the website on Different browsers and testing on different devices.
-
-
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 160745" src="https://github.com/user-attachments/assets/bbdbe180-c02d-46fe-abfc-6e157abcec7d" />
+
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 160848" src="https://github.com/user-attachments/assets/64fc5f0a-ce33-4023-86fd-4410b70332f3" />
+
 <img width="1918" height="1079" alt="Screenshot 2025-09-29 160918" src="https://github.com/user-attachments/assets/6b24bf3a-9519-415e-b163-82b6baaecdcf" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 160944" src="https://github.com/user-attachments/assets/b67fe74a-9316-4e47-b095-aefb5df8c7ce" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 161135" src="https://github.com/user-attachments/assets/39cd3ebb-3da6-4fc8-ba4e-8246a3e16e11" />
