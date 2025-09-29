@@ -305,3 +305,54 @@ iframe {
     padding: 1rem;
   }
 }
+/* EXTRA RESPONSIVE DESIGN BREAKPOINTS*/
+/* Large desktops (wide screens) */
+@media (min-width: 1200px) {
+  main {
+    max-width: 1300px; /* wider but still centered */
+    padding: 3rem;
+  }
+
+  h1 { font-size: 2.6rem; }
+  h2 { font-size: 2.2rem; }
+}
+
+/* Small tablets & large phones */
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+
+  .grid-2 {
+    grid-template-columns: 1fr; /* single column */
+  }
+
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.5rem; }
+
+  table, th, td {
+    font-size: 0.9rem;
+  }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+  body {
+    font-size: 0.8rem;
+  }
+
+  nav a {
+    font-size: 0.9rem;
+  }
+
+  input[type="submit"],
+  button {
+    width: 100%; /* full-width buttons */
+    padding: 1rem;
+  }
+
+  iframe {
+    height: 250px; /* reduce map height */
+  }
+}
