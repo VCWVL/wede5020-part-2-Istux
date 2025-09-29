@@ -96,6 +96,7 @@ Sitemap
 
 
 Visuals of From Part 1.
+
 <img width="216" height="334" alt="Screenshot 2025-08-27 175539" src="https://github.com/user-attachments/assets/8718db53-76dd-48a0-92ae-4f0164e1c151" />
 <img width="1916" height="1014" alt="Screenshot 2025-08-27 175607" src="https://github.com/user-attachments/assets/889d0a25-e41f-4ad3-9eb7-123df1656781" />
 <img width="1913" height="1019" alt="Screenshot 2025-08-27 175626" src="https://github.com/user-attachments/assets/343d0e6a-8e31-4de2-b280-4d55b5384f0c" />
@@ -108,6 +109,7 @@ Visuals of From Part 1.
 <img width="1918" height="915" alt="Screenshot 2025-08-27 180528" src="https://github.com/user-attachments/assets/2460be86-190d-4c57-99a1-6cf7e7fb3bca" />
 <img width="1912" height="907" alt="Screenshot 2025-08-27 180540" src="https://github.com/user-attachments/assets/181c1cf4-b7b0-45f0-9c97-21b1cf358291" />
 <img width="1918" height="923" alt="Screenshot 2025-08-27 180608" src="https://github.com/user-attachments/assets/6b0e9d93-d251-4567-8bed-b587ebfe4e98" />
+
 
 
 PART 2
@@ -217,6 +219,64 @@ Changelog
 - Multiple commits with descriptive comments.
 - Added website goals and objectives, change log and all the resources used.
 
+How Part 2 Improves Part 1
+Part 1 (HTML only): Website had raw structure but no style plain text, images, and links.
+Part 2 (CSS added): Now the site looks professional, readable, and branded, with proper colours, alignment, responsiveness, and interactivity.
+
+Timeline(Part 2 Only)
+
+Week 1 (2 days): Set up CSS reset, define colour scheme, and apply fonts across the website.
+Week 2 (3 days): Style navigation menu, hero image, and homepage sections for consistency.
+Week 3 (3 days): Style About, Products, Team, and Contact pages, including tables, forms, and blockquotes.
+Week 4 (2 days): Implement responsiveness using Flexbox, Grid, and media queries for different devices.
+Week 5 (1 day): Conduct final testing on desktop, tablet, and mobile, fixing layout or styling issues.
+Week 6 (1 day): Complete documentation (README file) and prepare final submission with polished code.
+
+Visuals from Part 2. (Visuals of the code,website,media queries, testing in different browsers and different devices,etc)
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154419" src="https://github.com/user-attachments/assets/6b0bb216-130d-4048-ac03-6e2bb52c941c" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154446" src="https://github.com/user-attachments/assets/96e63729-0bc2-4651-9a5d-204b4f6a4cd7" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154457" src="https://github.com/user-attachments/assets/ad9f10f7-4afa-47dc-839a-2725360127f4" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154510" src="https://github.com/user-attachments/assets/5001eede-3a53-45b6-9de7-a30f4e4116bd" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154519" src="https://github.com/user-attachments/assets/20b1349b-7d14-45de-ba6e-9e9cd8fb5516" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154528" src="https://github.com/user-attachments/assets/80b33cc8-5d03-46b7-a9d6-33d25ef6e964" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154538" src="https://github.com/user-attachments/assets/ded789a0-c79e-4b0a-b0bc-d67b8a8ffa0c" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154722" src="https://github.com/user-attachments/assets/17b4f809-f4d2-466c-96b4-dd83b7bb2a4e" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154739" src="https://github.com/user-attachments/assets/74c558de-6329-443c-a6c2-230e453cd89b" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154746" src="https://github.com/user-attachments/assets/13e25001-415e-4363-bcdd-4e0db94fd5da" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154759" src="https://github.com/user-attachments/assets/cc5c4c6d-ed87-449f-8073-66f204abebd1" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154806" src="https://github.com/user-attachments/assets/bbc9dc44-e5ea-41b5-8be1-d12f2d1fda23" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154818" src="https://github.com/user-attachments/assets/fc89e798-2e4d-4d66-afc1-508880eb3559" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154826" src="https://github.com/user-attachments/assets/ee3a72ce-d04e-4b86-beb8-cebfdbaecbc3" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154836" src="https://github.com/user-attachments/assets/3b5f9bb4-a7c2-410f-8239-574c4aa5988a" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154845" src="https://github.com/user-attachments/assets/0a362277-2d23-4c52-af72-916c13447256" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154853" src="https://github.com/user-attachments/assets/62b97166-e718-4e3a-bc20-8d01de22d451" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154907" src="https://github.com/user-attachments/assets/1b1fd6cb-0913-43cb-8857-f6ba54032261" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 154915" src="https://github.com/user-attachments/assets/57b6685b-122d-49ba-816a-0ac0fe9f93bf" />
+
+
+
+Testing the website on Different browsers and testing on different devices.
+
+
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 160745" src="https://github.com/user-attachments/assets/bbdbe180-c02d-46fe-abfc-6e157abcec7d" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 160848" src="https://github.com/user-attachments/assets/64fc5f0a-ce33-4023-86fd-4410b70332f3" />
+<img width="1918" height="1079" alt="Screenshot 2025-09-29 160918" src="https://github.com/user-attachments/assets/6b24bf3a-9519-415e-b163-82b6baaecdcf" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 160944" src="https://github.com/user-attachments/assets/b67fe74a-9316-4e47-b095-aefb5df8c7ce" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 161135" src="https://github.com/user-attachments/assets/39cd3ebb-3da6-4fc8-ba4e-8246a3e16e11" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 161200" src="https://github.com/user-attachments/assets/87605009-f397-491d-a6f1-b878091d0c35" />
+<img width="1915" height="1079" alt="Screenshot 2025-09-29 162158" src="https://github.com/user-attachments/assets/e756aa15-4ff7-4970-ae0a-cdc8c47e524f" />
+<img width="1918" height="1077" alt="Screenshot 2025-09-29 162211" src="https://github.com/user-attachments/assets/a7a351a1-7437-45a7-b6be-85c2699f9040" />
+<img width="1918" height="1079" alt="Screenshot 2025-09-29 162222" src="https://github.com/user-attachments/assets/debd4390-ab8f-4578-8960-81b8af4b692b" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 162233" src="https://github.com/user-attachments/assets/1edd5d95-56c2-4e4f-8a54-1a3b5c866e78" />
+<img width="1918" height="1079" alt="Screenshot 2025-09-29 162247" src="https://github.com/user-attachments/assets/3ade1ecf-83c0-4bb8-a42b-a54c14e36272" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 162332" src="https://github.com/user-attachments/assets/4ca43a8e-cc02-4255-ae8b-38404c2baa6d" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 162343" src="https://github.com/user-attachments/assets/5c9e02f4-4d3f-4eed-b8df-34d50af7182b" />
+<img width="1917" height="1077" alt="Screenshot 2025-09-29 162404" src="https://github.com/user-attachments/assets/261b253c-80fb-4ff7-bfbe-1c14c00c53ca" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 162414" src="https://github.com/user-attachments/assets/d4afaca3-c849-468b-b9b1-362683236c89" />
+<img width="1919" height="1079" alt="Screenshot 2025-09-29 162439" src="https://github.com/user-attachments/assets/da7b84d5-8476-409d-b918-e6b0dd93352d" />
+
+
 References:
 
 W3C (2023). HTML & CSS Standards. Available at: https://www.w3.org/ (Accessed: 27 August 2025).
@@ -238,4 +298,16 @@ Netlify Docs. 2024. Getting Started with Deployment. Available at: https://docs.
  [Accessed 21 September 2025].
 
 The Independent Institute of Education (IIE). 2025. Module Guide: Web Development Project. Johannesburg: IIE.
+
+freeCodeCamp n/a How to write a good README file for your GitHub project. Available at: https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
+ [Accessed: 27 September 2025].
+
+GitHub Docs n/a About READMEs. Available at: https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+ [Accessed: 27 September 2025].
+
+Tilburg Science Hub n/a README best practices. Available at: https://tilburgsciencehub.com/topics/collaborate-share/share-your-work/content-creation/readme-best-practices/
+ [Accessed: 27 September 2025].
+
+Merlos, J. n/a How to write a good README. DEV Community. Available at: https://dev.to/merlos/how-to-write-a-good-readme-bog
+ [Accessed: 27 September 2025].
 
