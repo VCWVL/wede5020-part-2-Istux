@@ -254,7 +254,12 @@ Visuals from Part 2. (Visuals of the code,website,media queries, testing in diff
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 154915" src="https://github.com/user-attachments/assets/57b6685b-122d-49ba-816a-0ac0fe9f93bf" />
 
 
+
+
 Testing the website on Different browsers and testing on different devices.
+
+
+
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 160745" src="https://github.com/user-attachments/assets/bbdbe180-c02d-46fe-abfc-6e157abcec7d" />
 
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 160848" src="https://github.com/user-attachments/assets/64fc5f0a-ce33-4023-86fd-4410b70332f3" />
@@ -273,6 +278,13 @@ Testing the website on Different browsers and testing on different devices.
 <img width="1917" height="1077" alt="Screenshot 2025-09-29 162404" src="https://github.com/user-attachments/assets/261b253c-80fb-4ff7-bfbe-1c14c00c53ca" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 162414" src="https://github.com/user-attachments/assets/d4afaca3-c849-468b-b9b1-362683236c89" />
 <img width="1919" height="1079" alt="Screenshot 2025-09-29 162439" src="https://github.com/user-attachments/assets/da7b84d5-8476-409d-b918-e6b0dd93352d" />
+
+
+
+
+
+
+
 
 
 References:
