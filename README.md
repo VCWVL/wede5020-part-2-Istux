@@ -20,29 +20,41 @@ Enable Scalability: Build a structure that can easily incorporate future enhance
 
 Key Features and Functionality
 
-Home Page (index.html).
-Welcome banner with a background image.
-Navigation bar linking to all pages.
-Brief introduction about the business.
+Hero Image
+Appears at the top of every page.
+Represents freshness and nature (e.g., meadow/grass image).
+Purpose: creates immediate brand recognition and sets the theme of an eco-friendly grocery store.
+
+Navigation Menu
+Present on all pages.
+Links: Home, About, Products, Team, Contact.
+Purpose: allows customers to move between sections quickly without scrolling endlessly.
+
+Home Page (index.html)
+Contains a welcome paragraph introducing The Green Basket.
+Purpose: first impression for customers — explains what the store is about and invites them to explore further.
+
+About Page (about.html)
+Explains the mission and vision of The Green Basket.
+Includes a blockquote to highlight a customer review.
+Purpose: builds trust by showing transparency and customer satisfaction.
 
 Products Page (products.html)
-Grid layout showcasing fruits and vegetables.
-Product images with short descriptions.
-Responsive design for mobile and desktop.
+Contains a table with product names, prices, and images.
+Purpose: informs customers of what is available before they visit.
+Customers browsing online can compare options easily.
 
-About Us Page (about.html)
-Mission and vision statements
-Eco-friendly company values
-Team introduction with staff highlights
-
-Enquiry Page (enquiry.html)
-Contact form with fields: Name, Email, Subject, and Message.
-Submit button (future backend integration required).
+Team Page (team.html)
+Displays a group/team photo.
+Purpose: puts faces to the business, creating a personal connection with customers and showing who is behind the store.
 
 Contact Page (contact.html)
-Contact details (email, phone, address).
-Embedded Google Map.
-Link to the enquiry form.
+Contains a contact form with fields for name, email, phone number, and message.
+Purpose: allows potential customers to ask questions about products, place special orders, or give feedback.
+The form is directed towards The Green Basket store staff (not random users) so they can respond directly to customers.
+Includes a Google Maps iframe showing the store’s location.
+Purpose: helps customers physically locate the store.
+
 
 Timeline and Milestones
 
@@ -141,25 +153,60 @@ Browser developer tools used for multi-device testing.
 Screenshots of desktop, tablet, and mobile versions included in documentation.
 Iterative improvements applied to ensure accessibility and responsiveness.
 
+Explanation of key features.
+
+CSS Styling (Part 2 Enhancements)
+Colours: Green and earthy tones for a fresh grocery store look.
+Layout: Flexbox & Grid used for responsiveness.
+Typography: Clean and readable fonts, with headings highlighted in green.
+Hover effects: Buttons and navigation links change colour on hover.
+
+Responsive design:
+Desktop  Wide layout with grids.
+Tablet  Navigation and content stack neatly.
+Mobile  Single column, images resize automatically.
+Purpose: ensures the site works across laptops, tablets, and phones.
+
+User Journey Example
+A customer visits the Home page to learn about the store.
+Customer click on Products to see available organic groceries.
+They go to the About page to learn about the store’s values.
+They view the Team page to see who runs the business.
+Finally, Customer go to Contact to ask about a delivery option and check the location on the map.
+
+
+
 Sitemap
 <img width="1639" height="1282" alt="image" src="https://github.com/user-attachments/assets/25762c1c-8899-43f4-9322-d06bf8b99214" />
 
 
 Changelog
-Version 1.0 (Part 1)
-Project plan, goals, and structure created.
-Folder structure finalized.
-Color scheme and typography chosen.
-Timeline and milestones drafted.
 
-Version 1.1 (Part 2)
-Implemented external CSS stylesheet (style.css).
-Established base styling across all pages.
-Applied typography, grid layouts, and Flexbox.
-Added visual styles (colors, borders, hover effects).
-Introduced responsive breakpoints for desktop, tablet, and mobile.
-Optimized images using srcset and responsive techniques.
-Conducted device testing and debugging.
+(Part 1)
+- Project plan, goals, and structure created.
+- Folder structure finalized.
+- Color scheme and typography chosen.
+- Timeline and milestones drafted.
+- Used feedbacks from part 1 and added sitemaps for Part 1 and 2
+- Included css and js folders.
+- Explained what is happening in the code.
+- Extended website goals.
+
+(Part 2)
+- Implemented external CSS stylesheet (style.css).
+- Established base styling across all pages.
+- Applied typography, grid layouts, and Flexbox.
+- Added visual styles (colors, borders, hover effects).
+- Introduced responsive breakpoints for desktop, tablet, and mobile.
+- Optimized images using srcset and responsive techniques.
+- Conducted device testing and debugging.
+- Used feedbacks from part 1 and added sitemaps for Part 1 and 2.
+- Removed all the inline css from all the html pages and moved it to styles.css page.
+- Updated fonts and css styling to meet typography requirements.
+- Updated readme.md as per feedbacks from part 1.
+- Updated file and folder structure.
+- Multiple commits with descriptive comments.
+- Added website goals and objectives, change log and all the resources used.
 
 References:
 
