@@ -32,7 +32,7 @@ Purpose: allows customers to move between sections quickly without scrolling end
 
 Home Page (index.html)
 Contains a welcome paragraph introducing The Green Basket.
-Purpose: first impression for customers — explains what the store is about and invites them to explore further.
+Purpose: first impression for customers explains what the store is about and invites them to explore further.
 
 About Page (about.html)
 Explains the mission and vision of The Green Basket.
@@ -111,6 +111,15 @@ Visuals of From Part 1.
 
 
 PART 2
+
+Website Goals (Part 2 Only)
+
+- To enhance user experience by applying professional and consistent CSS styling.
+- To create a visually appealing grocery store theme using colour schemes, hero images, and branding.
+- To ensure responsiveness across devices (desktop, tablet, mobile).
+- To make navigation intuitive, helping users find information quickly.
+- To build trust and engagement with customers by presenting team members, store values, and customer reviews.
+- To provide easy contact options for enquiries, feedback, and store location details.
 
 CSS Styling for Desktop Solution
 
